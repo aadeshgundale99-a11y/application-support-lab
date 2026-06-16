@@ -1,12 +1,33 @@
 # Application Support Lab
 
-This repository contains hands-on exercises and troubleshooting scenarios related to:
+Hands-on Application Support Engineer portfolio project.
 
-- SQL
-- Database Analysis
-- API Testing
-- Linux
+## Skills Demonstrated
+
+- SQL Queries
+- Database Design
+- Linux Commands
+- API Fundamentals
+- Postman Testing
 - Incident Management
-- Production Support
+- Monitoring & Troubleshooting
 
-Created as part of my Application Support Engineer learning journey.
+## Repository Structure
+
+application-support-lab
+
+├── sql/
+
+├── linux/
+
+├── api/
+
+├── postman/
+
+├── incidents/
+
+└── monitoring/
+
+## Project Goal
+
+This repository demonstrates practical skills commonly required for Application Support Engineer and Production Support Engineer roles.
